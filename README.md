@@ -1,1 +1,1 @@
-# AI-tomographic-alignment
+# AI Tomographic Alignment Project
