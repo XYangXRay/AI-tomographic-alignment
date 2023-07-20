@@ -1,0 +1,1 @@
+This file contains all pertinent files for determining misalignment by cross correlation of the original image and reprojections.
